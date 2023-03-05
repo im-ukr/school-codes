@@ -1,2 +1,2 @@
 # school-codes
-some early days coding
+some early-day codes
